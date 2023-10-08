@@ -590,6 +590,7 @@ This project is licensed under the [BSD 3-Clause License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
+For questions or feedback, please contact [Deepak kumar](mailto:business.deepak7292832956@gmail.com).
 
 ---
+# studentmanagementapp
